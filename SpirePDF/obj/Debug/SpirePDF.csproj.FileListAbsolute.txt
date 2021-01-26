@@ -1,0 +1,13 @@
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\SpirePDF.exe.config
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\SpirePDF.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\SpirePDF.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\Spire.License.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\Spire.Pdf.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\Microsoft.mshtml.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\Spire.License.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\bin\Debug\Spire.Pdf.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\obj\Debug\SpirePDF.csprojAssemblyReference.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\obj\Debug\SpirePDF.csproj.CoreCompileInputs.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\obj\Debug\SpirePDF.csproj.CopyComplete
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\obj\Debug\SpirePDF.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\SpirePDF\obj\Debug\SpirePDF.pdb

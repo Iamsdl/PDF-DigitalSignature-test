@@ -1,0 +1,2 @@
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\PDFSharp\obj\Debug\PDFSharp.csprojAssemblyReference.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\PDFSharp\obj\Debug\PDFSharp.csproj.CoreCompileInputs.cache

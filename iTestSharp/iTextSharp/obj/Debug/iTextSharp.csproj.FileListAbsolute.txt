@@ -1,0 +1,10 @@
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\obj\Debug\iTextSharp.csprojAssemblyReference.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\obj\Debug\iTextSharp.csproj.CoreCompileInputs.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\bin\Debug\iTextSharp.exe.config
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\bin\Debug\iTextSharp.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\bin\Debug\iTextSharp.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\bin\Debug\itextsharp.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\bin\Debug\itextsharp.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\obj\Debug\iTextSharp.csproj.CopyComplete
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\obj\Debug\iTextSharp.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\iTestSharp\iTextSharp\obj\Debug\iTextSharp.pdb

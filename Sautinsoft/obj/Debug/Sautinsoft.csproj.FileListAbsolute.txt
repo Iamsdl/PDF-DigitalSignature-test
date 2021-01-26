@@ -1,0 +1,10 @@
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\obj\Debug\Sautinsoft.csproj.CoreCompileInputs.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\bin\Debug\Sautinsoft.exe.config
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\bin\Debug\Sautinsoft.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\bin\Debug\Sautinsoft.pdb
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\bin\Debug\SautinSoft.Document.dll
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\bin\Debug\SautinSoft.Document.xml
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\obj\Debug\Sautinsoft.csprojAssemblyReference.cache
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\obj\Debug\Sautinsoft.csproj.CopyComplete
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\obj\Debug\Sautinsoft.exe
+D:\SDL\H4D_TFS\H4D\Development\Code\TestApplications\Digitally signing\Sautinsoft\obj\Debug\Sautinsoft.pdb
